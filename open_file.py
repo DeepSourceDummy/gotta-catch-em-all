@@ -20,5 +20,6 @@ def open_new_file_ctx(filename):
     with open(filename, 'r') as file_desc:
         return file_desc.read()
 
-f = open("open_file.py", 'r')
+
+f = open("open_file_new.py", 'r')
 f.close()
