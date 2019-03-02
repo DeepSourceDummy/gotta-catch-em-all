@@ -1,4 +1,5 @@
-int_asdf = "asdf"
-asdf_int = "asdfg"
+def test():
+    int_asdf = "asdf"
+    asdf_int = "asdfg"
 
-asd_int_ing = "yo"
+    asd_int_ing = "yo"
