@@ -19,3 +19,6 @@ def open_new_file_ctx(filename):
     """This will open a new file."""
     with open(filename, 'r') as file_desc:
         return file_desc.read()
+
+f = open('open_file.py', 'r')
+f.close()
