@@ -17,10 +17,10 @@ import this
 import random
 
 
-def foo_bar_baz():
-    print("this should raise an issue")
-    print("jfsdof fjdsklf fjsdlkc ljvsldjvld vjsdlkcvmldfks jvlkdfsjvlkdfjvlkfdjv vjdflvjdflkvlfkdvlkdf vfjvlkdfjvlkdf vjdflkvjdf")
-    raise NotImplemented
+# def foo_bar_baz():
+#     print("this should raise an issue")
+#     print("jfsdof fjdsklf fjsdlkc ljvsldjvld vjsdlkcvmldfks jvlkdfsjvlkdfjvlkfdjv vjdflvjdflkvlfkdvlkdf vfjvlkdfjvlkdf vjdflkvjdf")
+#     raise NotImplemented
 
 
 def open_new_file(filename):
