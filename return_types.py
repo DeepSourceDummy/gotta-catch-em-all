@@ -1,3 +1,6 @@
+def set_trace():
+    pass
+
 def method1():
     asdf = "qwert"
     if True:

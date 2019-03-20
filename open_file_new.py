@@ -17,3 +17,5 @@ def open_new_file_ctx(filename):
 #     print("this should raise an issue")
 #     print("jfsdof fjdsklf fjsdlkc ljvsldjvld vjsdlkcvmldfks jvlkdfsjvlkdfjvlkfdjv vjdflvjdflkvlfkdvlkdf vfjvlkdfjvlkdf vjdflkvjdf")
 #     raise NotImplemented
+file_desc = open('open_file.py', 'r')
+file_desc.close()
