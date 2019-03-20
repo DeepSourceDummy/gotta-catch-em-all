@@ -1,7 +1,7 @@
 import os
 # import this
 import random
-
+import pdb as master
 
 def open_new_file(filename):
     """This will open a new file."""
@@ -9,6 +9,7 @@ def open_new_file(filename):
     return file_desc.read()
 
 def open_new_file_ctx(filename):
+    master.set_trace()
     """This will open a new file."""
     with open(filename, 'r') as file_desc:
         return file_desc.read()

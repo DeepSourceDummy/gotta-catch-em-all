@@ -24,3 +24,5 @@ def same_return_types():
         return 5
     else:
         return 6
+
+set_trace()
