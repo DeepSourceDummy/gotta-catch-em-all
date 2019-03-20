@@ -1,6 +1,7 @@
 import os
 import this
 import random
+import io
 
 
 # def foo_bar_baz():
@@ -21,5 +22,5 @@ def open_new_file_ctx(filename):
         return file_desc.read()
 
 
-f = open("open_file_new.py", 'r')
+f = io.open("open_file_new.py", 'r')
 f.close()
