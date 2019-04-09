@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+    <coverage branches-covered="28" branches-valid="30" complexity="0"
+     line-rate="0.9839" lines-covered="183" lines-valid="186"
+     timestamp="1551180635459" version="4.5.2">
+        <sources/>
+        <packages>
+            <package branch-rate="0.9333" complexity="0" line-rate="0.9839"
+             name=".Users.sanket.Code.s3tree.s3tree">
+                <classes>
+                    <class branch-rate="1" complexity="0"
+                     filename="/Users/sanket/Code/s3tree/s3tree/__init__.py"
+                     line-rate="1" name="__init__.py">
+                        <methods/>
+                        <lines>
+                            <line hits="1" number="4"/>
+                        </lines>
+                    </class>
+                </classes>
+            </package>
+        </packages>
+    </coverage>
